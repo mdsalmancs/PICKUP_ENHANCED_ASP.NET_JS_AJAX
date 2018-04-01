@@ -1,0 +1,5 @@
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Entity\bin\Debug\Pickup Entity.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Entity\bin\Debug\Pickup Entity.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Entity\obj\Debug\Pickup Entity.csprojResolveAssemblyReference.cache
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Entity\obj\Debug\Pickup Entity.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Entity\obj\Debug\Pickup Entity.pdb

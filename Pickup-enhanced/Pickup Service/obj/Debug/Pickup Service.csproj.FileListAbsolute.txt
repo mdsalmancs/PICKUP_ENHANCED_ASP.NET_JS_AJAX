@@ -1,0 +1,16 @@
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Service.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Service.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Oracle Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Entity.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\EntityFramework.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Oracle Repository.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Oracle Repository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Entity.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Repository.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\Pickup Repository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\bin\Debug\EntityFramework.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\obj\Debug\Pickup Service.csprojResolveAssemblyReference.cache
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\obj\Debug\Pickup Service.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Service\obj\Debug\Pickup Service.pdb

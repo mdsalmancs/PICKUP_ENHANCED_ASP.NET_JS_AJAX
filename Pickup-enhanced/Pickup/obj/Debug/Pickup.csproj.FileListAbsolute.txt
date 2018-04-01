@@ -1,0 +1,90 @@
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\ApplicationInsights.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\csc.exe
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\csc.exe.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\csc.rsp
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\csi.exe
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\csi.rsp
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\System.AppContext.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\vbc.exe
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\vbc.exe.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\vbc.rsp
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Antlr3.Runtime.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Injection.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.Web.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Newtonsoft.Json.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Oracle Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup API.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Entity.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Service.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Net.Http.Formatting.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Helpers.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Mvc.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Optimization.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Razor.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.WebPages.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\WebGrease.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Http.Cors.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Http.WebHost.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Cors.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Oracle Repository.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Oracle Repository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup API.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup API.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Entity.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Service.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Injection.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Net.Http.Formatting.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Helpers.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Mvc.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Optimization.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Razor.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.WebPages.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Antlr3.Runtime.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Newtonsoft.Json.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Microsoft.AI.Web.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Http.Cors.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\System.Web.Http.WebHost.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Repository.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\bin\Pickup Repository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\obj\Debug\Pickup.csprojResolveAssemblyReference.cache
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\obj\Debug\Pickup.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup\obj\Debug\Pickup.pdb

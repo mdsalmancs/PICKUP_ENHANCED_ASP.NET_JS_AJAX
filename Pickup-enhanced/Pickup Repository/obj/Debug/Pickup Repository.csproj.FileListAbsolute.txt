@@ -1,0 +1,12 @@
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\Pickup Repository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\Pickup Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\Pickup Repository.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\EntityFramework.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\Pickup Entity.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\Pickup Entity.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\EntityFramework.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\obj\Debug\Pickup Repository.csprojResolveAssemblyReference.cache
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\obj\Debug\Pickup Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Pickup Repository\obj\Debug\Pickup Repository.pdb

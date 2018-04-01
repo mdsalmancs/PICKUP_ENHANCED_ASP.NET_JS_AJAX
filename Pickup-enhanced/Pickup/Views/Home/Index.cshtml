@@ -1,0 +1,31 @@
+﻿
+@{
+
+    if (Session["USERID"].ToString()=="")
+    {
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    else
+    {
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_LayoutUser.cshtml";
+    }
+
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/ApiScripts/products.js"></script>
+<script src="~/ApiScripts/Search.js"></script>
+<div id="productArea">
+
+</div>
+<div id="noti"></div>
+
+<div>
+    @Html.ActionLink("Admin Login","Index", "Login", new { @id=3}, null)
+</div>
+
+

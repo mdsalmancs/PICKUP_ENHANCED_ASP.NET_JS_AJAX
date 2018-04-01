@@ -1,0 +1,9 @@
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\obj\Debug\Oracle Repository.csprojResolveAssemblyReference.cache
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\bin\Debug\Oracle Repository.dll.config
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\bin\Debug\Oracle Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\bin\Debug\Oracle Repository.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\bin\Debug\Pickup Entity.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\bin\Debug\Pickup Entity.pdb
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\obj\Debug\Oracle Repository.dll
+C:\Users\Shams Bin Sohrab\Documents\GitHub\Pickup-enhanced\Oracle Repository\obj\Debug\Oracle Repository.pdb
